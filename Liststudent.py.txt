@@ -1,0 +1,12 @@
+#This program is to demonstrate python list
+
+#What is list: In Python, a list is a collection used to store multiple items in a single variable.
+#Lists are:
+#Ordered → items keep their position
+#Changeable (mutable) → you can add/remove/change items
+#Syntax = variable['']
+
+#Allow duplicates
+#Eg fruits = ["kiwi", "apple", "banana"]
+
+
