@@ -1,5 +1,5 @@
-def hello(name):
+def hello(name): #defining function
     print(f"hello {name}")
 
-hello("santhosh")
+hello("santhosh") #calling function
     
